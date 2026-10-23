@@ -1,0 +1,5 @@
+{
+  "name": "auto-allow",
+  "owner": { "name": "yu2001-s" },
+  "plugins": [{ "name": "auto-allow", "source": "./" }]
+}

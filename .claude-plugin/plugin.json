@@ -1,0 +1,6 @@
+{
+  "name": "auto-allow",
+  "version": "0.1.0",
+  "description": "Auto-approves permission prompts that still appear in bypass mode, except for a short list of catastrophic commands",
+  "types": "./types/index.d.ts"
+}
